@@ -4,7 +4,6 @@
 
 ### Data Science 
 
----
 [Project 5: Twitter Sentiment Analysis](https://github.com/juanpanu/Twitter_Sentiment_Analysis)
 
 This project is aimed to create a tweet classifier. Where tweets with friendly content and tweets with inappropriate content are separated using a Naive Bayes multinomial classifier and the Twitter API.
@@ -60,6 +59,7 @@ Text-generating Neural Network, trained on Fairytales by The Brothers Grimml, Al
 <img src="images/Story.png?raw=true"/>
 ---
 [Project 0 : CIA Scrapper](https://juanpanu.github.io/Platzi-intelligence-agency/)
+
 Platzi Intelligence Agency is a web Scraper aimed to collect the declassified documents of the world's most powerful intelligence agencies, such as the CIA, Mossad, and NSA. These documents hold secrets about the history of our planet, about the wars of the past and the mysteries of the present. You will then find a button that takes you to the CIA archives.
 
 <img src="images/CIA_2.png?raw=true"/>

@@ -7,10 +7,10 @@
 [Project 5: Twitter Sentiment Analysis](https://github.com/juanpanu/Twitter_Sentiment_Analysis)
 
 This project is aimed to create a tweet classifier. Where tweets with friendly content and tweets with inappropriate content are separated using a Naive Bayes multinomial classifier and the Twitter API.
-### Words from TwitterAPI
+#### Words from TwitterAPI
 ![Cloud](/images/WordCloud.png)
 
-### Clasification: Inappropriate
+#### Clasification: Inappropriate
 ![Negative](/images/Negative_API.png)
 ---
 [Project 4: Handwritten signature recognition](https://github.com/SWAT-Handwritten-Recognition/DataScience)
@@ -37,10 +37,10 @@ print(f'Predicción falsificación: {forged_deepsign_model}')
 Web application that allows users to search for a specific product by showing a list of the purchase options for the same product published in various ecommerce sites. Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 With pandas toolbox we are able to clean the data, convert prices, sort this prices and format the dataframe to an easy to read new json with all the information we need.
 
-This is the DF as it comes from the scraper:
+#### This is the DF as it comes from the scraper:
 ![DF_Scraper](https://user-images.githubusercontent.com/51537670/96348583-86910f80-106f-11eb-9d57-9a6c85df50db.png)
 
-Using Pandas to clean and order our data this is what is sent to Backend.
+#### Using Pandas to clean and order our data this is what is sent to Backend.
 ![FinalDF](https://user-images.githubusercontent.com/51537670/96348635-e2f42f00-106f-11eb-9d1c-a3bef84a42f9.png)
 
 ---
@@ -57,8 +57,8 @@ Using Pandas to clean and order our data this is what is sent to Backend.
 Text-generating Neural Network, trained on Fairytales by The Brothers Grimml, Alice's Adventures in Wonderland by Lewis Carroll and Coraline by Neil Gaiman.
 
 <img src="images/Story.png?raw=true"/>
----
 
+---
 [Project 0 : CIA Scrapper](https://juanpanu.github.io/Platzi-intelligence-agency/)
 
 Platzi Intelligence Agency is a web Scraper aimed to collect the declassified documents of the world's most powerful intelligence agencies, such as the CIA, Mossad, and NSA. These documents hold secrets about the history of our planet, about the wars of the past and the mysteries of the present. You will then find a button that takes you to the CIA archives.

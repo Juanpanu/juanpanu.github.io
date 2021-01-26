@@ -56,7 +56,7 @@ With pandas toolbox we are able to clean the data, convert prices, sort this pri
 
 Text-generating Neural Network, trained on Fairytales by The Brothers Grimml, Alice's Adventures in Wonderland by Lewis Carroll and Coraline by Neil Gaiman.
 
-<img src="images/Story.png?raw=true"/>
+<img src="images/Story.png"/>
 
 ---
 [Project 0 : CIA Scrapper](https://juanpanu.github.io/Platzi-intelligence-agency/)

@@ -10,8 +10,6 @@ This project is aimed to create a tweet classifier. Where tweets with friendly c
 #### Words from TwitterAPI
 ![Cloud](/images/WordCloud.png)
 
-#### Clasification: Inappropriate
-![Negative](/images/Negative_API.png)
 ---
 [Project 4: Handwritten signature recognition](https://github.com/SWAT-Handwritten-Recognition/DataScience)
 
@@ -50,7 +48,8 @@ With pandas toolbox we are able to clean the data, convert prices, sort this pri
 * Created Maps using geotaged datasets and mergeing with zika data set.
 * Time series exploration.
 
-<img src="images/countries.png?raw=true"/> | <img src="images/monthly.png?raw=true"/>
+<img src="images/countries.png?raw=true"/> 
+<img src="images/monthly.png?raw=true"/>
 
 ---
 [Project 1: StoryTellerAI](https://github.com/juanpanu/StoryTellerAI)

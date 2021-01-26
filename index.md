@@ -53,6 +53,7 @@ With pandas toolbox we are able to clean the data, convert prices, sort this pri
 
 ---
 [Project 1: StoryTellerAI](https://github.com/juanpanu/StoryTellerAI)
+
 Text-generating Neural Network, trained on Fairytales by The Brothers Grimml, Alice's Adventures in Wonderland by Lewis Carroll and Coraline by Neil Gaiman.
 
 <img src="images/Story.png?raw=true"/>

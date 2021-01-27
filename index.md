@@ -11,7 +11,17 @@ This project is aimed to create a tweet classifier. Where tweets with friendly c
 ![Cloud](/images/WordCloud.png)
 
 ---
-[Project 4: Handwritten signature recognition](https://github.com/SWAT-Handwritten-Recognition/DataScience)
+[Project 4: Zika Data Analysis](https://github.com/juanpanu/Zika-CDC)
+
+* Determined which countries have more Zika cases (2015-2016).
+* Created Maps using geotaged datasets and mergeing with zika data set.
+* Time series exploration.
+
+<img src="images/countries.png?raw=true"/> 
+<img src="images/monthly.png?raw=true"/>
+
+---
+[Project 3: Handwritten signature recognition](https://github.com/SWAT-Handwritten-Recognition/DataScience)
 
 Signature verification and forgery detection is the process of verifying signatures automatically and instantly to determine whether the signature is real or not. There are two main kinds of signature verification: static and dynamic. Static, or off-line verification is the process of verifying a document signature after it has been made, while dynamic or on-line verificationtakes place as a person creates his/her signature on a digital tablet or a similar device.
 
@@ -30,7 +40,7 @@ print(f'Predicción falsificación: {forged_deepsign_model}')
 > Predicción falsificación: [[0.898185]]
 ```
 ---
-[Project 3: SaveMoney_Tech](https://github.com/SM-Technologies/DS)
+[Project 2: SaveMoney_Tech](https://github.com/SM-Technologies/DS)
 
 Web application that allows users to search for a specific product by showing a list of the purchase options for the same product published in various ecommerce sites. Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 With pandas toolbox we are able to clean the data, convert prices, sort this prices and format the dataframe to an easy to read new json with all the information we need.
@@ -40,16 +50,6 @@ With pandas toolbox we are able to clean the data, convert prices, sort this pri
 
 #### Using Pandas to clean and order our data this is what is sent to Backend.
 ![FinalDF](https://user-images.githubusercontent.com/51537670/96348635-e2f42f00-106f-11eb-9d1c-a3bef84a42f9.png)
-
----
-[Project 2: Zika Data Analysis](https://github.com/juanpanu/Zika-CDC)
-
-* Determined which countries have more Zika cases (2015-2016).
-* Created Maps using geotaged datasets and mergeing with zika data set.
-* Time series exploration.
-
-<img src="images/countries.png?raw=true"/> 
-<img src="images/monthly.png?raw=true"/>
 
 ---
 [Project 1: StoryTellerAI](https://github.com/juanpanu/StoryTellerAI)

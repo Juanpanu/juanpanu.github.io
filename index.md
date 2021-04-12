@@ -1,6 +1,9 @@
 ## Portfolio
 
 ---
+
+### Data Science 
+
 [Project 6: Tinterillo APP](https://github.com/Searcher-PlatziMaster)
 
 This is an Opensource application that works as a search engine on the political constitution of Colombia (available online) in which, through this, the ordinary citizen can consult articles related to a compound word or by tags, that is, if the client wanted to search for "human rights" or "rights" the filter could be precise and show information from the text that is related to its tags.
@@ -9,8 +12,6 @@ This is an Opensource application that works as a search engine on the political
 ![Cloud](/images/Tinterillo.png)
 
 ---
-
-### Data Science 
 
 [Project 5: Twitter Sentiment Analysis](https://github.com/juanpanu/Twitter_Sentiment_Analysis)
 
